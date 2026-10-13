@@ -21,9 +21,10 @@ Financial crimes analyst working at the intersection of **AML investigations** a
 
 ## 📂 Featured projects
 
+- **[AML typology detection](https://github.com/bharley0711/aml-typology-detection)** — detection rules for structuring and money-mule fan-in/fan-out patterns, run against a fully synthetic transaction dataset
+- **[Fictional SAR narrative](https://github.com/bharley0711/fictional-sar-narrative)** — an end-to-end mock SAR written from an invented scenario, with each red flag mapped to public FinCEN/FFIEC guidance
+- **[Digital forensics toolkit](https://github.com/bharley0711/digital-forensics-toolkit)** — a streaming hash verifier for evidence integrity checks, plus a chain-of-custody form template
 - **Forensic examination write-up** — a full exam of a NIST CFReDS practice image: methodology, findings, and lessons learned *(in progress)*
-- **AML typology detection, synthetic data** — a Jupyter notebook detecting structuring and mule fan-in/fan-out patterns in a public synthetic AML dataset
-- **Fictional SAR narrative** — an end-to-end mock SAR written from a fully invented scenario
 
 > ⚠️ Everything in my portfolio is built on public, synthetic, or fictional data. No client, employer, or case information — ever.
 

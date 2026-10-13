@@ -12,7 +12,7 @@ Financial crimes analyst working at the intersection of **AML investigations** a
 ## 🧰 Tools & technologies
 
 - Magnet Axiom
-- <!-- ADD YOURS, e.g.: SQL · Python (pandas) · Excel · your transaction monitoring platform -->
+- SQL · Python · Tableau · Power BI
 
 ## 🌱 Currently learning
 

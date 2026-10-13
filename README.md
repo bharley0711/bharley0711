@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Brooke 👋
 
-<!--
-**bharley0711/bharley0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial crimes analyst working at the intersection of **AML investigations** and **digital forensics** — transaction monitoring, SAR lookback reviews, and forensic data collections.
 
-Here are some ideas to get you started:
+## 🔍 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AML / financial crimes investigations and lookback reviews
+- Detection rule logic: design, testing, and tuning
+- Digital evidence collection and analysis with **Magnet Axiom**
+- Turning messy transaction data into clear, defensible narratives
+
+## 🧰 Tools & technologies
+
+- Magnet Axiom
+- <!-- ADD YOURS, e.g.: SQL · Python (pandas) · Excel · your transaction monitoring platform -->
+
+## 🌱 Currently learning
+
+- Magnet Forensics training path: AX100 (Forensic Fundamentals) → AX200 (Axiom Examinations) → MCFE-Axiom certification
+- Forensic examination methodology using public practice images (NIST CFReDS)
+
+## 📂 Featured projects
+
+- **Forensic examination write-up** — a full exam of a NIST CFReDS practice image: methodology, findings, and lessons learned *(in progress)*
+- **AML typology detection, synthetic data** — a Jupyter notebook detecting structuring and mule fan-in/fan-out patterns in a public synthetic AML dataset
+- **Fictional SAR narrative** — an end-to-end mock SAR written from a fully invented scenario
+
+> ⚠️ Everything in my portfolio is built on public, synthetic, or fictional data. No client, employer, or case information — ever.
+
+## 📫 Reach me
+
+- Open to connecting with others in financial crimes and DFIR
+<!-- Add your LinkedIn URL here when ready -->
+
+## 📊 GitHub stats
+
+![Brooke's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharley0711&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharley0711&layout=compact)

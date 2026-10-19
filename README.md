@@ -1,6 +1,6 @@
 # Hi, I'm Brooke 👋
 
-Data analyst with 7 years in litigation and investigative analytics — SQL data cleaning and Tableau dashboards built hand-in-hand with attorneys on healthcare fraud, opioid, and other complex cases — now bringing that experience to financial crimes and digital forensics.
+Data analyst and manager with 10 years of experience — 8 years as an analyst and 2 years managing analytics teams. That includes 7 years at CACI doing SQL data cleaning and Tableau dashboards built hand-in-hand with attorneys on healthcare fraud, opioid, and other complex cases — now bringing that experience to financial crimes and digital forensics at Guidepost.
 
 ## 🔍 What I do
 

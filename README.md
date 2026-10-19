@@ -1,6 +1,6 @@
 # Hi, I'm Brooke 👋
 
-Data analyst and manager with 10 years of experience — 8 years as an analyst and 2 years managing analytics teams. That includes 7 years at CACI doing SQL data cleaning and Tableau dashboards built hand-in-hand with attorneys on healthcare fraud, opioid, and other complex cases — now bringing that experience to financial crimes and digital forensics at Guidepost.
+Data analyst and manager with 10 years of experience: 8 years as an analyst and 2 years managing analytics teams. That includes 7 years at CACI doing SQL data cleaning and Tableau dashboards built hand-in-hand with attorneys on healthcare fraud, opioid, and other complex cases, now bringing that experience to financial crimes and digital forensics at Guidepost.
 
 ## 🔍 What I do
 
@@ -11,8 +11,8 @@ Data analyst and manager with 10 years of experience — 8 years as an analyst a
 
 ## 👥 Management experience
 
-- **Manager – Data & Technology Advisory Services, Guidepost Solutions** — current role in financial crimes advisory work
-- **Deputy Manager, CACI** — managed an analytics team supporting Department of Justice litigation and investigative matters: oversaw data strategy, project execution, and deliverable quality; defined project scope, managed client relationships, and ensured timely delivery of reports and visualizations for attorneys and senior stakeholders
+- **Manager, Data & Technology Advisory Services, Guidepost Solutions**: current role in financial crimes advisory work
+- **Deputy Manager, CACI**: managed an analytics team supporting Department of Justice litigation and investigative matters: oversaw data strategy, project execution, and deliverable quality; defined project scope, managed client relationships, and ensured timely delivery of reports and visualizations for attorneys and senior stakeholders
 
 ## 🧰 Tools & technologies
 
@@ -21,7 +21,7 @@ Data analyst and manager with 10 years of experience — 8 years as an analyst a
 
 ## 🎓 Certifications
 
-- **Magnet Certified Forensic Examiner (MCFE) — Magnet Axiom**
+- **Magnet Certified Forensic Examiner (MCFE), Magnet Axiom**
 
 ## 🌱 Currently learning
 
@@ -29,11 +29,11 @@ Data analyst and manager with 10 years of experience — 8 years as an analyst a
 
 ## 📂 Featured projects
 
-- **[AML typology detection](https://github.com/bharley0711/aml-typology-detection)** — detection rules for structuring and money-mule fan-in/fan-out patterns, run against a fully synthetic transaction dataset
-- **[Fictional SAR narrative](https://github.com/bharley0711/fictional-sar-narrative)** — an end-to-end mock SAR written from an invented scenario, with each red flag mapped to public FinCEN/FFIEC guidance
-- **[Digital forensics toolkit](https://github.com/bharley0711/digital-forensics-toolkit)** — a streaming hash verifier for evidence integrity checks, plus a chain-of-custody form template
+- **[AML typology detection](https://github.com/bharley0711/aml-typology-detection)**: detection rules for structuring and money-mule fan-in/fan-out patterns, run against a fully synthetic transaction dataset
+- **[Fictional SAR narrative](https://github.com/bharley0711/fictional-sar-narrative)**: an end-to-end mock SAR written from an invented scenario, with each red flag mapped to public FinCEN/FFIEC guidance
+- **[Digital forensics toolkit](https://github.com/bharley0711/digital-forensics-toolkit)**: a streaming hash verifier for evidence integrity checks, plus a chain-of-custody form template
 
-> ⚠️ Everything in my portfolio is built on public, synthetic, or fictional data. No client, employer, or case information — ever.
+> ⚠️ Everything in my portfolio is built on public, synthetic, or fictional data. No client, employer, or case information, ever.
 
 ## 📫 Reach me
 

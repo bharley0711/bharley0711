@@ -23,10 +23,6 @@ Data analyst and manager with 10 years of experience: 8 years as an analyst and 
 
 - **Magnet Certified Forensic Examiner (MCFE), Magnet Axiom**
 
-## 🌱 Currently learning
-
-- Forensic examination methodology using public practice images (NIST CFReDS)
-
 ## 📂 Featured projects
 
 - **[AML typology detection](https://github.com/bharley0711/aml-typology-detection)**: detection rules for structuring and money-mule fan-in/fan-out patterns, run against a fully synthetic transaction dataset

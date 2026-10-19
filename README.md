@@ -19,9 +19,12 @@ Data analyst with 7 years in litigation and investigative analytics — SQL data
 - Magnet Axiom
 - SQL · Python · Tableau · Power BI
 
+## 🎓 Certifications
+
+- **Magnet Certified Forensic Examiner (MCFE) — Magnet Axiom**
+
 ## 🌱 Currently learning
 
-- Magnet Forensics training path: AX100 (Forensic Fundamentals) → AX200 (Axiom Examinations) → MCFE-Axiom certification
 - Forensic examination methodology using public practice images (NIST CFReDS)
 
 ## 📂 Featured projects
